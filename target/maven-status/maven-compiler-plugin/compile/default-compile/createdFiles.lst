@@ -1,0 +1,7 @@
+com\whitestar\gcapi\resources\JakartaEE91Resource.class
+com\whitestar\gcapi\entity\Person.class
+com\whitestar\gcapi\entity\Coverage.class
+com\whitestar\gcapi\entity\Policy.class
+com\whitestar\gcapi\JakartaRestConfiguration.class
+com\whitestar\gcapi\entity\Claim.class
+com\whitestar\gcapi\resources\ClaimBean.class
